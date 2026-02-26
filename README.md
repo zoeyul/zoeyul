@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 </p>
 
 ### 🧠 Continuous Learning
-[Grokking Simplicity (Functional Programming)](https://github.com/zoeyul/functional-programming) - Completed all chapters
-Clean Code (Code Quality) - In progress
+- [Grokking Simplicity (Functional Programming)](https://github.com/zoeyul/functional-programming) - Completed all chapters
+- Clean Code (Code Quality) - In progress

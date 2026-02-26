@@ -36,4 +36,8 @@ Here are some ideas to get you started:
 
 #### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Communicating Between React Native and Native Modules &lpar;C++/OpenCV&rpar;](https://medium.com/@zoeyul07/communicating-between-react-native-and-native-modules-c-opencv-d89365319eb9?source=rss-43d1567aec03------2)
+- [Optimize video frame in React Native](https://medium.com/@zoeyul07/optimize-video-frame-in-react-native-070a4ce48c7f?source=rss-43d1567aec03------2)
+- [Migrate React Native to support Android 16KB Page](https://medium.com/@zoeyul07/migrate-react-native-to-support-android-16kb-page-7a05a7cbe825?source=rss-43d1567aec03------2)
+- [React Native’s New Architecture: Comparing with the Old Architecture](https://medium.com/@zoeyul07/react-natives-new-architecture-compare-with-old-architecture-26783a563db3?source=rss-43d1567aec03------2)
 <!-- BLOG-POST-LIST:END -->

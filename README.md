@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [Grokking Simplicity (Functional Programming)](https://github.com/zoeyul/functional-programming) - Completed all chapters
 - Clean Code (Code Quality) - In progress
 
-#### Latest Blog posts
+#### 📝 Latest Blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [Communicating Between React Native and Native Modules &lpar;C++/OpenCV&rpar;](https://medium.com/@zoeyul07/communicating-between-react-native-and-native-modules-c-opencv-d89365319eb9?source=rss-43d1567aec03------2)
 - [Optimize video frame in React Native](https://medium.com/@zoeyul07/optimize-video-frame-in-react-native-070a4ce48c7f?source=rss-43d1567aec03------2)

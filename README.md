@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Seoyul 👋
 
 <!--
 **zoeyul07/zoeyul07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,16 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoeyul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![snake gif](https://github.com/zoeyul/zoeyul/blob/output/github-contribution-grid-snake.svg)
 -->
+
+
+## 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/zoeyul/react-native-image-code-scanner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=zoeyul&repo=react-native-image-code-scanner&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>

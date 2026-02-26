@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/zoeyul/zoeyul/blob/output/github-contribution-grid-snake.svg)
 -->
 
-### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoeyul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zoeyul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zoeyul07@gmail.com) 
 
 ### 💻 Tech Stack

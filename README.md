@@ -22,18 +22,9 @@ Here are some ideas to get you started:
 
 
 ### Featured Projects
-
-
-  <a href="https://github.com/AbdelrahmanRadwan/Classical-GameBox">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=AbdelrahmanRadwan&repo=Classical-GameBox" />
-  </a>
   
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/zoeyul/react-native-image-code-scanner">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zoeyul&repo=react-native-image-code-scanner&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/zoeyul/react-native-image-code-scanner">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zoeyul&repo=react-native-image-code-scanner" />
+  </a>
+</p>

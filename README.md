@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Featured Projects
-  
+### Open Source project
+#### Contribution
 <p align="center">
   <a href="https://github.com/zoeyul/react-native-image-code-scanner">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zoeyul&repo=react-native-image-code-scanner" />

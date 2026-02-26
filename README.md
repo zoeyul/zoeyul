@@ -28,3 +28,10 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zoeyul&repo=react-native-image-code-scanner" />
   </a>
 </p>
+
+### Book Study
+<p align="left">
+  <a href="https://github.com/zoeyul/functional-programming">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=zoeyul&repo=functional-programming" />
+  </a>
+</p>

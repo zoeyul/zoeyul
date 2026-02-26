@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - [Grokking Simplicity (Functional Programming)](https://github.com/zoeyul/functional-programming) - Completed all chapters
 - Clean Code (Code Quality) - In progress
 
-#### Blog posts
+#### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

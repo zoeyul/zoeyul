@@ -1,8 +1,8 @@
 ### Hi there, I'm Seoyul 👋
-
-A little more about me 
+<!--
+A little more about me:
 * **[myself](https://github.com/zoeyul/myself)** - An interactive engineering environment focused on high-performance runtime optimization and system observability. It demonstrates the seamless integration of heavy 3D assets and complex animations without compromising main-thread availability, providing real-time diagnostic insights into browser health metrics like FPS and LCP.
-
+-->
 #### 🔗  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoeyul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zoeyul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zoeyul07@gmail.com) 
 

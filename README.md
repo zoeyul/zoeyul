@@ -15,8 +15,8 @@ A little more about me:
   - **Cross-Version Compatibility Support**: Restored support for RN 0.70–0.73 by replacing version-specific classes with a universal ReactPackage interface, preventing build breaks in older environments.
 
 #### 🧠 Continuous Learning
-- [Grokking Simplicity (Functional Programming)](https://github.com/zoeyul/functional-programming) - Completed all chapters
-- Clean Code (Code Quality) - In progress
+- **Refactoring: Improving the Design of Existing Code (2nd Edition)** by Martin Fowler – Focuses on structural integrity and code quality in JavaScript.
+- [**Grokking Simplicity**](https://github.com/zoeyul/functional-programming) by Eric Normand – deep-dived into functional patterns and system reliability.
 
 #### 📝 Latest Blog posts 
 <!-- BLOG-POST-LIST:START -->
